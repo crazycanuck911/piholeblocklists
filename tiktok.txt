@@ -1,0 +1,5 @@
+0.0.0.0 e6858.dscx.akamaiedge.net
+0.0.0.0 e28622.a.akamaiedge.net
+0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-lp-sg.ibyteimg.com
+0.0.0.0 e673.dsce9.akamaiedge.net
